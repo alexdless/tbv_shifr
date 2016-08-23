@@ -1,0 +1,1 @@
+One possible solution that I use is to use python3. It seems to solve many utf issues.Sorry for the late answer, but it may help people in the future.For example,
